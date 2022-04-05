@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="paas-common-util" />
+        <module name="pass-gateway" />
+        <module name="paas-security-app" />
+        <module name="paas-security-core" />
+        <module name="paas-common-config" />
+        <module name="paas-common-core" />
+        <module name="paas-security-feign" />
+        <module name="paas-common-base" />
+        <module name="paas-common-zk" />
+        <module name="paas-eureka" />
+        <module name="paas-common-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="paas-common" target="1.8" />
+      <module name="paas-common-app" target="1.8" />
+      <module name="paas-common-base" target="1.8" />
+      <module name="paas-common-config" target="1.8" />
+      <module name="paas-common-core" target="1.8" />
+      <module name="paas-common-util" target="1.8" />
+      <module name="paas-common-zk" target="1.8" />
+      <module name="paas-eureka" target="1.8" />
+      <module name="paas-security-app" target="1.8" />
+      <module name="paas-security-core" target="1.8" />
+      <module name="paas-security-feign" target="1.8" />
+      <module name="paascloud" target="1.8" />
+      <module name="pass-gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

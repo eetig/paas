@@ -1,0 +1,3 @@
+# Project exclude paths
+/paas-eureka/target/
+/pass-gateway/target/

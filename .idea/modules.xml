@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-common.iml" filepath="$PROJECT_DIR$/paas-common/paas-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-common-app/paas-common-app.iml" filepath="$PROJECT_DIR$/paas-common/paas-common-app/paas-common-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-common-base/paas-common-base.iml" filepath="$PROJECT_DIR$/paas-common/paas-common-base/paas-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-common-config/paas-common-config.iml" filepath="$PROJECT_DIR$/paas-common/paas-common-config/paas-common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-common-core/paas-common-core.iml" filepath="$PROJECT_DIR$/paas-common/paas-common-core/paas-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-common-util/paas-common-util.iml" filepath="$PROJECT_DIR$/paas-common/paas-common-util/paas-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-common-zk/paas-common-zk.iml" filepath="$PROJECT_DIR$/paas-common/paas-common-zk/paas-common-zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-eureka/paas-eureka.iml" filepath="$PROJECT_DIR$/paas-eureka/paas-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-security-app/paas-security-app.iml" filepath="$PROJECT_DIR$/paas-common/paas-security-app/paas-security-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-security-core/paas-security-core.iml" filepath="$PROJECT_DIR$/paas-common/paas-security-core/paas-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paas-common/paas-security-feign/paas-security-feign.iml" filepath="$PROJECT_DIR$/paas-common/paas-security-feign/paas-security-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/paascloud.iml" filepath="$PROJECT_DIR$/.idea/paascloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pass-gateway/pass-gateway.iml" filepath="$PROJECT_DIR$/pass-gateway/pass-gateway.iml" />
+    </modules>
+  </component>
+</project>
